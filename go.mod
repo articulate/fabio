@@ -107,4 +107,6 @@ require (
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )
 
+replace github.com/armon/go-proxyproto => github.com/pires/go-proxyproto v0.0.0-20190615163442-2c19fd512994 // indirect
+
 go 1.13
