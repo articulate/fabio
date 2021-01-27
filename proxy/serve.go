@@ -15,8 +15,8 @@ import (
 	"github.com/fabiolb/fabio/config"
 	"github.com/fabiolb/fabio/proxy/tcp"
 
-	"github.com/armon/go-proxyproto"
 	"github.com/inetaf/tcpproxy"
+	"github.com/pires/go-proxyproto"
 )
 
 type Server interface {

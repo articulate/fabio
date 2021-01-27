@@ -3,11 +3,12 @@ package proxy
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/fabiolb/fabio/config"
 	"net"
 	"time"
 
-	proxyproto "github.com/armon/go-proxyproto"
+	"github.com/fabiolb/fabio/config"
+
+	proxyproto "github.com/pires/go-proxyproto"
 )
 
 func ListenTCP(l config.Listen, cfg *tls.Config) (net.Listener, error) {

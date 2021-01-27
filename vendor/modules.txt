@@ -4,8 +4,6 @@ github.com/Shopify/sarama
 github.com/apache/thrift/lib/go/thrift
 # github.com/armon/go-metrics v0.3.4
 github.com/armon/go-metrics
-# github.com/armon/go-proxyproto v0.0.0-20180202201750-5b7edb60ff5f
-github.com/armon/go-proxyproto
 # github.com/circonus-labs/circonus-gometrics/v3 v3.2.0
 github.com/circonus-labs/circonus-gometrics/v3
 github.com/circonus-labs/circonus-gometrics/v3/checkmgr
@@ -122,6 +120,8 @@ github.com/pascaldekloe/goe/verify
 # github.com/pierrec/lz4 v2.5.2+incompatible
 github.com/pierrec/lz4
 github.com/pierrec/lz4/internal/xxh32
+# github.com/pires/go-proxyproto v0.4.1
+github.com/pires/go-proxyproto
 # github.com/pkg/errors v0.9.1
 github.com/pkg/errors
 # github.com/pkg/profile v1.5.0

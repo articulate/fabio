@@ -10,10 +10,10 @@ Copyright (c) 2015 eBay Software Foundation. All rights reserved. (before 15 Apr
 Attribution for Project Dependencies
 ------------------------------------------------
 
-github.com/armon/go-proxyproto
-https://github.com/armon/go-proxyproto
-License: MIT (https://github.com/armon/go-proxyproto/LICENSE)
-Copyright (c) 2014 Armon Dadgar
+github.com/pires/go-proxyproto
+https://github.com/pires/go-proxyproto
+License: Apache-2.0 (https://github.com/pires/go-proxyproto/LICENSE)
+Copyright (c) {Not Listed}
 
 
 github.com/circonus-labs/circonus-gometrics

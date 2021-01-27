@@ -6,9 +6,9 @@ import (
 	"net"
 	"time"
 
-	proxyproto "github.com/armon/go-proxyproto"
 	"github.com/fabiolb/fabio/proxy/internal"
 	"github.com/fabiolb/fabio/proxy/tcp"
+	proxyproto "github.com/pires/go-proxyproto"
 )
 
 // Server is a TCP test server that binds to a random port.
